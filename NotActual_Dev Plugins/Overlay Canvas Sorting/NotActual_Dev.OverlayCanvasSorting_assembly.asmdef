@@ -1,0 +1,17 @@
+{
+    "name": "NotActual_Dev.OverlayCanvasSorting_assembly",
+    "rootNamespace": "",
+    "references": [
+        "NotActual_Dev.CustomInspectorLists_assembly",
+        "NotActual_Dev.ExtensionMethods_assembly"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
