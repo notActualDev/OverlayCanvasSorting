@@ -12,6 +12,7 @@ to your existing "NotActual_Dev Plugins" folder.
 PROBLEMS AFTER DOWNLOADING (if some errors appear in Unity editor console after you downloaded this)
 
 Problem 1.: error CS0111, CS0579, CS0102, CS8646
+
 Solution 1.: Check if any folder or script is duplicated. E.g. you downloaded "NotActual_Dev Plugins" folder twice.
 It can happen when you download more than one plugin from my repositories because they share some global assemblies
 (e.g. you can have two folders "Extension methods"). You better leave a folder with higher Version (it's shown in .txt file in a folder).
