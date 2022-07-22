@@ -1,5 +1,4 @@
 Overlay Canvas Sorting - Version 1
-For video tutorials - visit notActual_dev on YouTube.
 
 HOW TO DOWNLOAD
 
